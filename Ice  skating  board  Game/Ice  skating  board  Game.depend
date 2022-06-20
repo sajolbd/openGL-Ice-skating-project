@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1655494919 source:e:\diu stuffs\summer 2022\computer graphics lab\projects\ice  skating  board  game\main.cpp
+	<windows.h>
+	<iostream>
+	<GL/glut.h>
+	<GL/gl.h>
+	<stdlib.h>
+	<math.h>
+
+1402232602 c:\program files\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1512591001 c:\program files\codeblocks\mingw\include\gl\gl.h
+
+1512591001 c:\program files\codeblocks\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
